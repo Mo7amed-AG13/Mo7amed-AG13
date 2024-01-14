@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohamed ab Elsalam
+- 👋 Hi, I’m Mohamed abd Elsalam
 - 👀 I’m interested in Python Development 
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on ... 
